@@ -1,15 +1,14 @@
 Hi 👋 My name is Michiel Brand
 ==============================
 
-Full-Stack Developer
+Software Engineer
 --------------------
 
-Passionate about designing and optimizing scalable software solutions, I specialize in full-stack development, cloud architecture, and data analytics. As a developer for Farmtrack, a SaaS start-up at the Alphawave Group, I drive the end-to-end lifecycle of a real-time crop-spraying data analytics platform - bridging the gap between technology and agriculture. With an M.Eng. in Electronic Engineering and currently enrolled for an M.S. in Software Engineering, my expertise spans .NET, Node.js, MongoDB, and AWS cloud hosting. I thrive on solving complex challenges, leveraging DevOps automation, and maintaining high-performance applications. Outside of coding, I’m a licensed pilot, triathlon enthusiast, and avid guitarist. Always eager to connect.
+Passionate about designing and optimizing scalable software solutions, I specialize in full-stack development, cloud architecture, and data analytics. As a product engineer at Capitec, perhaps the most impressive technology company in RSA, I am constantly working on enterprise-grade software solutions - both internal tooling and client-facing soltions. With an M.Eng. in Electronic Engineering and an M.S. in Software Engineering, I am driven to remain at the cutting edge of a fast moving industry. My expertise spans .NET, Node.js, MongoDB, and AWS cloud hosting. I thrive on solving complex challenges, leveraging DevOps automation, and maintaining high-performance applications. Outside of coding, I’m a licensed pilot, fitness enthusiast, and avid guitarist. Always eager to connect.
 
 * 🌍  I'm based in Stellenbosch
-* 🖥️  See my portfolio at [My Profile](http://https://michielhbrand.github.io/michiel-portfolio/)
 * ✉️  You can contact me at [michielsefoon@gmail.com](mailto:michielsefoon@gmail.com)
-* 🚀  I'm currently working on [Farmtrack](http://farmtracksa.com/)
+* 🚀  I'm currently working at [Capitec](https://capitecbank.co.za/)
 * 🧠  I'm learning AWS Certification, React and Go
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I enjoy learning from experts in the field
